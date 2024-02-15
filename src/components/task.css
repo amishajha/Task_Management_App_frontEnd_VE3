@@ -1,0 +1,36 @@
+.task{
+  padding: 15px;
+  background-color: aliceblue;
+  margin: 16px;
+  color: black;
+  list-style: none;
+  border-radius: 5px;
+  cursor: pointer;
+  height: auto;
+  overflow-x: hidden;
+}
+
+
+.icon{
+    float: right;
+    margin-right: 20px;
+}
+
+
+.edit-todo {
+    width: 85%;
+    font-size:16px;
+    border-color: none;
+  
+}
+@media only screen and (max-width: 600px) {
+  .task{
+  
+    width:100%;
+    
+      
+    }
+
+   
+  }
+
