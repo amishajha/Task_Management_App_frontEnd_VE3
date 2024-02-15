@@ -75,5 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![Screenshot 2024-02-15 182508](https://github.com/amishajha/Task_Management_App_frontEnd_VE3/assets/63840354/e3a4cdee-d588-43a6-9b5e-f3b62051dd68)
 
 ![edit](https://github.com/amishajha/Task_Management_App_frontEnd_VE3/assets/63840354/11bcbeff-cdfc-441a-9195-1c238df49d67)
+![Screenshot 2024-02-15 183222](https://github.com/amishajha/Task_Management_App_frontEnd_VE3/assets/63840354/de55131b-4d21-4817-9ce2-37c4b53ec983)
+
 
 
